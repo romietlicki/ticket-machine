@@ -1,5 +1,5 @@
 # ticket-machine
-ticket machine teste - Integer test
+Ticket machine teste - Integer test
 
 
 ## In order to run this app. we need to simply clone and build: 
