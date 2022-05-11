@@ -14,7 +14,7 @@ localhost:8080/ticket-machine/api/ticket-machine/<text-to-type>
 ## Database:
 H2 banco em memória
   
-H2 Console: http://localhost:8080/ticket-machine/h2
-url: jdbc:h2:mem:testdb
-user: sa
-password: password
+H2 Console: http://localhost:8080/ticket-machine/h2 
+  url: jdbc:h2:mem:testdb
+  user: sa
+  password: password
